@@ -22,17 +22,17 @@ Try the /help Command below to know my abilities.
             [
                 [
                     InlineKeyboardButton(
-                        "👥 𝙰𝚍𝚍 Group Music Probot 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 👥", url="https://t.me/Group_Music_ProBot?startgroup=true")
+                        "🧚‍♀️ Owner 🧚‍♀️", url="https://t.me/itzMezeus")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Music Lovers 💬", url="https://t.me/HindiKDrama"
+                        "🧚‍♀️ Support 🧚‍♀️", url="https://t.me/Noobiezhub"
                     ),
                     InlineKeyboardButton(
-                        "🙋 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙲𝚑𝚊𝚝 🙋", url="https://t.me/Black_Knights_Union_Support"
+                        "🧚‍♀️ channel 🧚‍♀️", url="https://t.me/zabotz"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "💁 Assistant 💁", url="https://t.me/Group_Music_Pro"
+                        "🧚‍♀️ Assistant 🧚‍♀️", url="https://t.me/parvathy_assistant"
                     )],
             ]
         ),
