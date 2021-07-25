@@ -14,7 +14,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {BOT_NAME} 🎵
         
-I am Group Music Probot, I Am an Advance And Powerful Telegram Groups Voice Chat Music Bot.
+Im Parvathy, an Advance And Powerful Telegram Groups Voice Chat Music Bot.
 
 Try the /help Command below to know my abilities.
         """,
