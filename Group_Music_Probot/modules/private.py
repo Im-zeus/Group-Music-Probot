@@ -28,11 +28,11 @@ Try the /help Command below to know my abilities.
                         "🧚‍♀️ Support 🧚‍♀️", url="https://t.me/Noobiezhub"
                     ),
                     InlineKeyboardButton(
-                        "🧚‍♀️ channel 🧚‍♀️", url="https://t.me/zabotz"
+                        "🧚‍♀️ Channel 🧚‍♀️", url="https://t.me/zabotz"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "🧚‍♀️ Assistant 🧚‍♀️", url="https://t.me/parvathy_assistant"
+                        "🧚‍♀️ Marvel 🧚‍♀️", url="https://t.me/marvelmoviesearth616"
                     )],
             ]
         ),
